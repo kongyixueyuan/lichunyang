@@ -1,0 +1,5 @@
+main getbalance -address 1KzXfTHSbiPTgNKmdbs8bJ693yunCJL4Pq
+
+main getbalance -address 1Q2HFicCZAwi8PTGZcHmYaX9i7LmYWjFHc
+
+main getbalance -address 19twFHHHxHp2nQoSxMEACZvVQhunPLAEEZ
